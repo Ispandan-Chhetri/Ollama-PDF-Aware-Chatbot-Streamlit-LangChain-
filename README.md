@@ -34,7 +34,7 @@ If the answer is not present in the document context, the model is instructed to
 - Relevant chunks are injected into the LLM prompt
 - The model generates an answer grounded in the document context
 
-<img width="1432" height="913" alt="image" src="https://github.com/user-attachments/assets/3ab605c7-327d-4648-80f3-e52dd6873850" />
+<img width="1018" height="870" alt="image" src="https://github.com/user-attachments/assets/b43eeb4f-3fb7-4145-97ea-54fbd622c230" />
 
 
 **📌 Notes**

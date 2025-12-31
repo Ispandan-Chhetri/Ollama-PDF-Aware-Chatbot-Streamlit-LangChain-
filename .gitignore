@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Uploaded user files
+uploads/
+
+# Vector database / embeddings (if persisted locally)
+chroma/
+vectorstore/
+*.sqlite
+*.db
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks (optional)
+.ipynb_checkpoints/
